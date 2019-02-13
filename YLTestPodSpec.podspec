@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name         = "TestPodSpec"
+  s.name         = "YLTestPodSpec"
   s.version      = "0.0.1"
   s.summary      = "测试创建podSpec"
   s.description  = <<-DESC
