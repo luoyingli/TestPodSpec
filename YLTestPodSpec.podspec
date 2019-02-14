@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "YLTestPodSpec"
-  s.version      = "0.0.1"
+  s.version      = "0.0.3"
   s.summary      = "测试创建podSpec"
   s.description  = <<-DESC
   test demo implement by Objective-C
