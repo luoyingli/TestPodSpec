@@ -31,6 +31,7 @@
 
 - (void)buttonClick:(UIButton *)button
 {
+    //跳转无参数
     [UIManager showViewControllerWithController:[UIViewController new]];
 }
 
